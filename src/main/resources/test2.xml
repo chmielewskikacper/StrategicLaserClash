@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game VenueName="Laserowy Babilon">
+    <Gamer Name="Filip 2" GamerID="9" TeamColor="1" WiaponDamage="0" TagerType="1" TagerTypeName="Assault Rifle" FireCount="3483" Killed="67" Medicine="90" Ammo="0" Damage="606" GameTime="00:01:12.2500000">
+        <Hit GamerID="0" Hits="0" />
+        <Hit GamerID="1" Hits="251" />
+        <Hit GamerID="2" Hits="161" />
+        <Hit GamerID="3" Hits="0" />
+        <Hit GamerID="4" Hits="93" />
+    </Gamer>
+    <Gamer Name="Jerzy" GamerID="5" TeamColor="0" WiaponDamage="0" TagerType="1" TagerTypeName="Assault Rifle" FireCount="5935" Killed="35" Medicine="76" Ammo="0" Damage="377" GameTime="00:01:12.2677500">
+        <Hit GamerID="0" Hits="2" />
+        <Hit GamerID="1" Hits="0" />
+        <Hit GamerID="2" Hits="0" />
+        <Hit GamerID="3" Hits="0" />
+        <Hit GamerID="4" Hits="0" />
+    </Gamer>
+</Game>
